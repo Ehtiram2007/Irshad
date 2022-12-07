@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Press+Start+2P&family=Rye&family=Teko:wght@300;400;500;600;700&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.div1 {
+  top: -320px;
+  display: flex;
+  align-items: center;
+  background: #393e4a;
+  border-radius: 12px;
+  padding: 1rem 51rem 9rem 1rem;
+  color: #fff;
+  font-size: 1.6rem;
+  position: absolute;
+  margin: 20rem 0 15rem;
+  min-height: 20.2rem;
+}
+button{
+  border-radius: 10px;
+  color: #fff;
+  background-color: #40b659;
+position: absolute;
+top: 283px;
+width: 201px;
+height: 45px;
+left: 40px;
+cursor: pointer;
+}
+.div3{
+  font-family: 'Poppins', sans-serif;
+}
+.div2 {
+  padding: 21px;
+  width: 48.5rem;
+  height: 2rem;
+  position: absolute;
+  bottom: -3.6rem;
+  right: 0;
+}
+.img1 {
+  border-style: none;
+  max-width: 100%;
+  height: auto;
+  position: absolute;
+  left: 870px;
+  top: -2px;
+}
+.img2 {
+  position: absolute;
+  left: 1255px;
+  top: 100px;
+}
+.img3{
+  position: absolute;
+  top: 310px;
+  left: 1034px;
+}
